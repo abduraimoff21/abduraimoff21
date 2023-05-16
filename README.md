@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently studying at 42 Abu Dhabi <br>👯 I’m looking to collaborate on Cybersecurity collaboration: network security, threat analysis, penetration testing, and security auditing.<br>🤝 I’m looking for help with Trading, Ethical Hacking, Web Development<br>🌱 I’m currently learning C, C++, C#<br>💬 Ask me about Cybersecurity<br>⚡ Fun fact Code is like humor. When you have to explain it, it's bad!
+🔭 I’m currently studying at 42 Abu Dhabi <br>👯 I’m looking to collaborate on Cybersecurity collaboration: network security, threat analysis, penetration testing, and security auditing.<br>🤝 I’m looking for help with Trading, Ethical Hacking, Web Development<br>🌱 I’m currently learning C, C++, C#<br>💬 Ask me about Cybersecurity<br>⚡ Fun fact:
+Code is like humor. When you have to explain it, it's bad!
 
 
 ## 🌐 Socials:
