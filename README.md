@@ -13,7 +13,7 @@ Code is like humor. When you have to explain it, it's bad!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abduraimoff21&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abduraimoff21&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abduraimoff21&theme=discord&no-frame=false&no-bg=false&margin-w=4)
