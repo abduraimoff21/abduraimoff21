@@ -1,7 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently studying at 42 Abu Dhabi <br>👯 I’m looking to collaborate on Cybersecurity collaboration: network security, threat analysis, penetration testing, and security auditing.<br>🤝 I’m looking for help with Trading, Ethical Hacking, Web Development<br>🌱 I’m currently learning C, C++, C#<br>💬 Ask me about Cybersecurity<br>⚡ Fun fact:<br>
-Code is like humor. When you have to explain it, it's bad!
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_abduraimoff?igshid=Yjk4NWM2ZWVkMw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/doston-abduraimov-75a7ab238) [![Instagram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/@mr_abduraimoff)
@@ -13,7 +10,7 @@ Code is like humor. When you have to explain it, it's bad!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abduraimoff21&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abduraimoff21&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+[![github-contribution-grid-snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abduraimoff21&theme=discord&no-frame=false&no-bg=false&margin-w=4)
