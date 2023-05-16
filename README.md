@@ -1,8 +1,8 @@
 # 💫 Hi I'm Doston
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_abduraimoff?igshid=Yjk4NWM2ZWVkMw==) <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/doston-abduraimov-75a7ab238) <br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_abduraimoff?igshid=Yjk4NWM2ZWVkMw==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/doston-abduraimov-75a7ab238) 
 [![Instagram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/@mr_abduraimoff)
   
 # 💻 Tech Stack:
