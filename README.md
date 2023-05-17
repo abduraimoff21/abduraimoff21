@@ -1,4 +1,4 @@
-# 💫 Hi I'm Doston
+# 💫 Hi I'm Doston Abduraimov
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_abduraimoff?igshid=Yjk4NWM2ZWVkMw==)
